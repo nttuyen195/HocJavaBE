@@ -14,6 +14,6 @@ public class BaiLap2 {
 		int Canhnhonhat = Math.min(Chieudai, Dientich);
 		System.out.println(
 				"Diện tích là: " + Dientich + "\n" + "Chu vi là: " + Chuvi + "\n" + "Cạnh nhỏ nhất: " + Canhnhonhat);
-
+		sc.close();
 	}
 }
